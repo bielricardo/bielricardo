@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1 align="left"> Hi, I'm Gabriel Ricardo. </h1>
 
+- 👀 I’m interested in technological areas.
+- 🌱 I’m currently learning, but with a lot of practice.
+- 💞️ I'm creating my own domain. @labz.company / labzcompany.com / contato@labzcompany.com
+- 📫 gabrielricardofernandes438@gmail.com / @lcf.biel 
+
+<a href="https://br.linkedin.com/in/gabrielricardo-tecnologia" target="_blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
 <!--
 **bielricardo/bielricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
