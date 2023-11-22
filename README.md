@@ -3,7 +3,7 @@
 - 👀 I’m interested in technological areas.
 - 🌱 I’m currently learning, but with a lot of practice.
 - 💞️ I'm creating my own domain. @labz.company / labzcompany.com / contato@labzcompany.com
-- 📫 gabrielricardofernandes438@gmail.com / @lcf.biel 
+- 📫 gabrielricardofernandes438@gmail.com / @biellricardo
 
 <a href="https://br.linkedin.com/in/gabrielricardo-tecnologia" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
